@@ -1,0 +1,34 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+header{
+    text-align: center;
+    font-size: 80px;
+}
+
+main{
+    text-align: center;
+    word-spacing: 300px;
+}
+
+main section{
+    display: inline-block;
+}
+
+
+
+#no:hover{
+
+    position: relative;
+    top: 100px;
+    right: 20px;
+
+}
+
+#check-again , a{
+    word-spacing: normal;
+    text-decoration: none;
+    color: red;
+}
